@@ -114,5 +114,3 @@ class JUnitXMLReporter extends SimpleReporter {
         $this->currCase->appendChild($ch);
     }
 }
-?>
-
